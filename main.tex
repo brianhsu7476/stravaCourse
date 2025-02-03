@@ -1,0 +1,55 @@
+\documentclass[aspectratio=169]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{fontspec} % set font
+\usepackage{xeCJK}
+	\setCJKmainfont[AutoFakeBold=6,AutoFakeSlant=.2]{AR PL KaitiM Big5}
+	\XeTeXlinebreaklocale "zh"
+	\XeTeXlinebreakskip = 0pt plus 1pt
+
+\usepackage{listings} % code
+\usepackage{xcolor}
+\definecolor{lightgray}{gray}{0.9}
+\lstset{
+	backgroundcolor=\color{lightgray},
+	basicstyle=\ttfamily\small,
+	showstringspaces=false,
+	commentstyle=\color{red},
+	keywordstyle=\color{blue},
+	tabsize=2
+}
+\usepackage{multicol}
+
+\hypersetup{colorlinks=,linkcolor=,urlcolor=blue} % href color
+
+\usetheme{Madrid} % theorem in box
+
+\input{command.tex}
+
+\newtheoremstyle{mystyle}
+  {15pt}{15pt}
+  {}
+  {}
+  {\bf}
+  {.}
+  {1em}
+	{}
+
+\theoremstyle{mystyle}
+\newtheorem{thm}{定理}[section]
+\newtheorem{thr}[thm]{引理}
+\newtheorem{ex}[thm]{範例}
+\newtheorem{pr}[thm]{習題}
+\newtheorem{sbpr}[thm]{Subproblem}
+\newtheorem{df}[thm]{定義}
+\newtheorem{pp}[thm]{命題}
+\newtheorem{co}[thm]{推論}
+\newtheorem{for}[thm]{公式}
+\newtheorem{lm}[thm]{引理}
+\newtheorem{nota}[thm]{符號}
+\newtheorem{cl}[thm]{Claim}
+\newtheorem{rmk}[thm]{註}
+\newtheorem{say}[thm]{名言}
+
+\include{main2}

@@ -1,0 +1,66 @@
+\section{外掛程式}
+
+\begin{frame}{Statshunter}
+\only<1>{
+\begin{multicols}{2}
+\begin{itemize}
+\item 網頁：\url{https://www.statshunters.com}
+\includegraphics[width=3cm]{QRcodeStats.png}
+\item Heatmap：所有騎過的路線畫出的地圖
+\end{itemize}
+\newpage
+\includegraphics[height=6.5cm]{statsTaiwan.png}
+\includegraphics[height=6.5cm]{taiwanHeatmap.png}
+\end{multicols}
+}\only<2>{
+\begin{itemize}
+\item Explore tiles：Statshunter 會把整個地球切成$2^{14}\times2^{14}$個（近似）正方形的格子\\
+格子的寬度$=$赤道長度$\times\cos($緯度$)\times2^{-14}\approx2.446\times\cos($緯度$)km$\\
+\item 在台北一格大約是$2.217km\times2.217km$，而在奧克蘭一格大約是$1.957km\times1.957km$
+\includegraphics[width=11cm]{statsTaipei.png}
+\end{itemize}
+}\only<3>{
+\begin{multicols}{2}
+\begin{itemize}
+\item Filter：比如說你可能只想看某段時間內的 heatmap 、統計數據\\
+\includegraphics[height=4.5cm]{filterTaiwan.png}
+\includegraphics[height=4.5cm]{filterRoof.png}
+\end{itemize}
+\newpage
+\includegraphics[width=7cm]{filterTaiwanStats.png}
+\includegraphics[width=7cm]{filterRoofStats.png}
+\end{multicols}
+}\only<4>{
+\includegraphics[width=15cm]{statsDistance.png}
+\includegraphics[width=15cm]{statsElevation.png}
+}\only<5>{
+\includegraphics[height=7cm]{statsAll.png}
+\includegraphics[height=6cm]{statsWeek.png}
+}\only<6>{
+\includegraphics[width=7.5cm]{statshour.png}
+\includegraphics[width=7.5cm]{distanceBreakdown.png}
+}
+\end{frame}
+
+\begin{frame}{Flyby}
+\begin{itemize}
+\item 打開方法：設定$\to$隱私控管功能$\to$Flyby$\to$所有人
+\item 用上帝視角看在某個特定時間點所有的人分別在哪裡
+\item 比對每個人的領先/落後的狀況
+\includegraphics[width=11cm]{flyby.png}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Intervals}
+\begin{itemize}
+\only<2>{
+\item 分析訓練強度
+\includegraphics[width=14cm]{intervalsFitness.png}
+}\only<1>{
+\item 分析功率、心率資料
+\item 估計FTP
+\includegraphics[width=14cm]{intervalsPower.png}
+}
+\end{itemize}
+\end{frame}
+
