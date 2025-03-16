@@ -1,5 +1,37 @@
 \section{外掛程式}
 
+\begin{frame}{麥卡托投影}
+\only<8>{
+\begin{center}
+{\fontsize{150pt}{50pt}\selectfont 厚}
+\includegraphics[width=5cm]{penguin.jpeg}
+\end{center}
+}\only<1-7,9->{
+\begin{multicols}{2}
+\begin{itemize}
+\item \includegraphics[width=4cm]{worldMap.png}
+\pause
+\item 放大$\frac1{\cos(\text{緯度})}$倍
+\pause
+\item 特性：小範圍內的地圖方位、比例尺都是對的
+\pause
+\item 活動距離通常不會太遠 $\then$ 麥卡托投影（除非你搭飛機還開 Strava ）
+\pause
+\newpage
+\item Q: 麥卡托投影有辦法畫出整個地球嗎？
+\pause
+\item A: 沒辦法，所以去南極探險開 Strava 不會紀錄在地圖上
+\pause
+\item 企鵝表示：
+\pause
+\pause
+\item 假設赤道畫在地圖上的寬度是$2\pi r$，那畫到南北緯$\theta$的地圖的高度就是$2r\ln|\sec\theta+\tan\theta|$，所以正方形的地圖會畫到南北緯$\tan^{-1}\left(\frac12(e^\pi+e^{-\pi})\right)\approx85.07$度。\\
+{\tiny $\int_0^\theta\frac1{\cos x}dx=\left.\ln|\sec x+\tan x|\right|_0^\theta=\ln|\sec\theta+\tan\theta|$}
+\end{itemize}
+\end{multicols}
+}
+\end{frame}
+
 \begin{frame}{Statshunter}
 \only<1>{
 \begin{multicols}{2}
@@ -14,7 +46,7 @@
 \end{multicols}
 }\only<2>{
 \begin{itemize}
-\item Explore tiles：Statshunter 會把整個地球切成$2^{14}\times2^{14}$個（近似）正方形的格子\\
+\item Explore tiles：Statshunter 會把整個世界地圖切成$2^{14}\times2^{14}$個（近似）正方形的格子\\
 格子的寬度$=$赤道長度$\times\cos($緯度$)\times2^{-14}\approx2.446\times\cos($緯度$)km$\\
 \item 在台北一格大約是$2.217km\times2.217km$，而在奧克蘭一格大約是$1.957km\times1.957km$
 \includegraphics[width=11cm]{statsTaipei.png}

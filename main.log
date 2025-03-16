@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.12.3)  31 JAN 2025 21:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  16 MAR 2025 18:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,7 +510,20 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)))
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))))
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
@@ -939,7 +952,19 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \colbreak@box=\box127
 \mc@col@check@num=\count382
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 24.
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box128
+\UL@hyphenbox=\box129
+\UL@skip=\skip75
+\UL@hook=\toks49
+\UL@height=\dimen338
+\UL@pe=\count383
+\UL@pixel=\dimen339
+\ULC@box=\box130
+Package: ulem 2019/11/18
+\ULdepth=\dimen340
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
@@ -947,11 +972,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 24.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
 (./command.tex)
-\c@thm=\count383
+\c@thm=\count384
 
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 55.
+e 56.
 
 (./main2.tex
 
@@ -1153,101 +1178,121 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/lmtt/b/n --> TU/lmtt/b/n on input line 6.
-\c@lstlisting=\count384
+\c@lstlisting=\count385
  (./main.nav) [1
 
 ] (./main.toc) [2
 
-] (./2.tex (./main.toc)
+] (./1.tex (./main.toc)
 [3
 
 ]
+File: privacy.png Graphic file (type bmp)
+<privacy.png>
+File: hideMap.png Graphic file (type bmp)
+<hideMap.png>
 
-Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
-(xeCJK)                
-(xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
-(xeCJK)                it.
+Overfull \vbox (5.99037pt too high) detected at line 12
+ []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+[4
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+]
+File: friend.png Graphic file (type bmp)
+<friend.png>
+File: search1.png Graphic file (type bmp)
+<search1.png>
+File: search2.png Graphic file (type bmp)
+<search2.png>
+File: search3.png Graphic file (type bmp)
+<search3.png>
+ [5
+
+]
+File: club.png Graphic file (type bmp)
+<club.png>
+File: message.png Graphic file (type bmp)
+<message.png>
+File: message2.png Graphic file (type bmp)
+<message2.png>
+
+Overfull \vbox (5.19354pt too high) detected at line 63
+ []
+
+[6
+
+]
+File: post.png Graphic file (type bmp)
+<post.png>
+File: post2.png Graphic file (type bmp)
+<post2.png>
+ [7
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 43.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 63.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 43.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 63.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 43.
-File: QRcodeStats.png Graphic file (type bmp)
-<QRcodeStats.png>
-File: statsTaiwan.png Graphic file (type bmp)
-<statsTaiwan.png>
-File: taiwanHeatmap.png Graphic file (type bmp)
-<taiwanHeatmap.png>
- [4
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 63.
+ [8
 
 ]
-File: statsTaipei.png Graphic file (type bmp)
-<statsTaipei.png>
- [5
-
-]
-File: filterTaiwan.png Graphic file (type bmp)
-<filterTaiwan.png>
-File: filterRoof.png Graphic file (type bmp)
-<filterRoof.png>
-File: filterTaiwanStats.png Graphic file (type bmp)
-<filterTaiwanStats.png>
-File: filterRoofStats.png Graphic file (type bmp)
-<filterRoofStats.png>
- [6
-
-]
-File: statsDistance.png Graphic file (type bmp)
-<statsDistance.png>
-File: statsElevation.png Graphic file (type bmp)
-<statsElevation.png>
- [7
-
-]
-File: statsAll.png Graphic file (type bmp)
-<statsAll.png>
-File: statsWeek.png Graphic file (type bmp)
-<statsWeek.png>
-
-Overfull \vbox (0.77464pt too high) detected at line 43
- []
-
-[8
-
-]
-File: statshour.png Graphic file (type bmp)
-<statshour.png>
-File: distanceBreakdown.png Graphic file (type bmp)
-<distanceBreakdown.png>
+File: happen.png Graphic file (type bmp)
+<happen.png>
+File: giveBirth.png Graphic file (type bmp)
+<giveBirth.png>
  [9
 
 ]
-File: flyby.png Graphic file (type bmp)
-<flyby.png>
+File: happen.png Graphic file (type bmp)
+<happen.png>
+File: giveBirth.png Graphic file (type bmp)
+<giveBirth.png>
  [10
 
 ]
-File: intervalsPower.png Graphic file (type bmp)
-<intervalsPower.png>
- [11
+File: rideTogether.png Graphic file (type bmp)
+<rideTogether.png>
+File: rideTogether2.png Graphic file (type bmp)
+<rideTogether2.png>
+
+Overfull \vbox (19.61176pt too high) detected at line 86
+ []
+
+[11
 
 ]
-File: intervalsFitness.png Graphic file (type bmp)
-<intervalsFitness.png>
+File: getActivityByName.png Graphic file (type bmp)
+<getActivityByName.png>
  [12
+
+]
+File: getActivityByTime.png Graphic file (type bmp)
+<getActivityByTime.png>
+ [13
+
+]
+File: playActivity.png Graphic file (type bmp)
+<playActivity.png>
+File: playActivityWuling.png Graphic file (type bmp)
+<playActivityWuling.png>
+File: playActivityTaitung.png Graphic file (type bmp)
+<playActivityTaitung.png>
+File: playActivityTataka.png Graphic file (type bmp)
+<playActivityTataka.png>
+ [14
 
 ])
 \tf@nav=\write6
@@ -1265,17 +1310,17 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 772D026A76DEA78C6B154465633B6A35;75.
+(rerunfilecheck)             Checksum: A18B7886676232F64CCEE7FB4BB0F88F;75.
  ) )
-(\end occurred when \ifx on line 55 was incomplete)
-(\end occurred when \ifnum on line 55 was incomplete) 
+(\end occurred when \ifx on line 56 was incomplete)
+(\end occurred when \ifnum on line 56 was incomplete) 
 Here is how much of TeX's memory you used:
- 27085 strings out of 476402
- 582184 string characters out of 5792947
- 1929627 words of memory out of 5000000
- 48501 multiletter control sequences out of 15000+600000
- 563779 words of font info for 75 fonts, out of 8000000 for 9000
- 286 hyphenation exceptions out of 8191
- 101i,15n,107p,417b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 27508 strings out of 474878
+ 594566 string characters out of 5762516
+ 1933627 words of memory out of 5000000
+ 48994 multiletter control sequences out of 15000+600000
+ 563893 words of font info for 77 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 128i,15n,123p,417b,684s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (12 pages, 137624 bytes).
+Output written on main.xdv (14 pages, 167164 bytes).
