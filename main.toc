@@ -1,1 +1,4 @@
-\beamer@sectionintoc {1}{基礎功能}{3}{0}{1}
+\beamer@sectionintoc {1}{簡介}{3}{0}{1}
+\beamer@sectionintoc {2}{基礎功能}{8}{0}{2}
+\beamer@sectionintoc {3}{外掛程式}{22}{0}{3}
+\beamer@sectionintoc {4}{路段}{41}{0}{4}

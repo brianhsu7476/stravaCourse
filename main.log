@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  16 MAR 2025 18:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  17 MAR 2025 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1183,8 +1183,67 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 ] (./main.toc) [2
 
-] (./1.tex (./main.toc)
+] (./0.tex (./main.toc)
 [3
+
+]
+File: smallTaipei.png Graphic file (type bmp)
+<smallTaipei.png>
+File: wulai4p.png Graphic file (type bmp)
+<wulai4p.png>
+File: hand.png Graphic file (type bmp)
+<hand.png>
+File: smallTaiwan.png Graphic file (type bmp)
+<smallTaiwan.png>
+ [4
+
+]
+File: statistics2024.png Graphic file (type bmp)
+<statistics2024.png>
+File: photoworld.png Graphic file (type bmp)
+<photoworld.png>
+File: balakaRank.png Graphic file (type bmp)
+<balakaRank.png>
+ [5
+
+] [6
+
+]
+
+Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
+(xeCJK)                
+(xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
+(xeCJK)                it.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 54.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 54.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 54.
+File: stravaWebsite.png Graphic file (type bmp)
+<stravaWebsite.png>
+File: rickroll.png Graphic file (type bmp)
+<rickroll.png>
+File: QRcodeStrava.png Graphic file (type bmp)
+<QRcodeStrava.png>
+File: stravaApp.png Graphic file (type bmp)
+<stravaApp.png>
+ [7
+
+]) (./1.tex
+(./main.toc) [8
 
 ]
 File: privacy.png Graphic file (type bmp)
@@ -1195,7 +1254,7 @@ File: hideMap.png Graphic file (type bmp)
 Overfull \vbox (5.99037pt too high) detected at line 12
  []
 
-[4
+[9
 
 ]
 File: friend.png Graphic file (type bmp)
@@ -1206,7 +1265,7 @@ File: search2.png Graphic file (type bmp)
 <search2.png>
 File: search3.png Graphic file (type bmp)
 <search3.png>
- [5
+ [10
 
 ]
 File: club.png Graphic file (type bmp)
@@ -1219,48 +1278,54 @@ File: message2.png Graphic file (type bmp)
 Overfull \vbox (5.19354pt too high) detected at line 63
  []
 
-[6
+[11
 
 ]
 File: post.png Graphic file (type bmp)
 <post.png>
 File: post2.png Graphic file (type bmp)
 <post2.png>
- [7
+ [12
 
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
-
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 63.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 63.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 63.
- [8
+] [13
 
 ]
 File: happen.png Graphic file (type bmp)
 <happen.png>
 File: giveBirth.png Graphic file (type bmp)
 <giveBirth.png>
- [9
+ [14
 
 ]
 File: happen.png Graphic file (type bmp)
 <happen.png>
 File: giveBirth.png Graphic file (type bmp)
 <giveBirth.png>
- [10
+ [15
+
+]
+File: forgetResume.jpeg Graphic file (type bmp)
+<forgetResume.jpeg>
+File: saveWhenCrash.jpg Graphic file (type bmp)
+<saveWhenCrash.jpg>
+ [16
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [17
 
 ]
 File: rideTogether.png Graphic file (type bmp)
@@ -1268,20 +1333,20 @@ File: rideTogether.png Graphic file (type bmp)
 File: rideTogether2.png Graphic file (type bmp)
 <rideTogether2.png>
 
-Overfull \vbox (19.61176pt too high) detected at line 86
+Overfull \vbox (19.61176pt too high) detected at line 107
  []
 
-[11
+[18
 
 ]
 File: getActivityByName.png Graphic file (type bmp)
 <getActivityByName.png>
- [12
+ [19
 
 ]
 File: getActivityByTime.png Graphic file (type bmp)
 <getActivityByTime.png>
- [13
+ [20
 
 ]
 File: playActivity.png Graphic file (type bmp)
@@ -1292,7 +1357,241 @@ File: playActivityTaitung.png Graphic file (type bmp)
 <playActivityTaitung.png>
 File: playActivityTataka.png Graphic file (type bmp)
 <playActivityTataka.png>
- [14
+ [21
+
+]) (./2.tex (./main.toc) [22
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
+ [23
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [24
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [25
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [26
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [27
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+
+[28
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [29
+
+]
+File: penguin.jpeg Graphic file (type bmp)
+<penguin.jpeg>
+ [30
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [31
+
+]
+File: QRcodeStats.png Graphic file (type bmp)
+<QRcodeStats.png>
+File: statsTaiwan.png Graphic file (type bmp)
+<statsTaiwan.png>
+File: taiwanHeatmap.png Graphic file (type bmp)
+<taiwanHeatmap.png>
+ [32
+
+]
+File: statsTaipei.png Graphic file (type bmp)
+<statsTaipei.png>
+ [33
+
+]
+File: filterTaiwan.png Graphic file (type bmp)
+<filterTaiwan.png>
+File: filterRoof.png Graphic file (type bmp)
+<filterRoof.png>
+File: filterTaiwanStats.png Graphic file (type bmp)
+<filterTaiwanStats.png>
+File: filterRoofStats.png Graphic file (type bmp)
+<filterRoofStats.png>
+ [34
+
+]
+File: statsDistance.png Graphic file (type bmp)
+<statsDistance.png>
+File: statsElevation.png Graphic file (type bmp)
+<statsElevation.png>
+ [35
+
+]
+File: statsAll.png Graphic file (type bmp)
+<statsAll.png>
+File: statsWeek.png Graphic file (type bmp)
+<statsWeek.png>
+
+Overfull \vbox (0.77464pt too high) detected at line 75
+ []
+
+[36
+
+]
+File: statshour.png Graphic file (type bmp)
+<statshour.png>
+File: distanceBreakdown.png Graphic file (type bmp)
+<distanceBreakdown.png>
+ [37
+
+]
+File: flyby.png Graphic file (type bmp)
+<flyby.png>
+ [38
+
+]
+File: intervalsPower.png Graphic file (type bmp)
+<intervalsPower.png>
+ [39
+
+]
+File: intervalsFitness.png Graphic file (type bmp)
+<intervalsFitness.png>
+ [40
+
+]) (./3.tex (./main.toc) [41
+
+]
+File: holdmeme.JPG Graphic file (type bmp)
+<holdmeme.JPG>
+ [42
+
+]
+File: maokongSegment.png Graphic file (type bmp)
+<maokongSegment.png>
+File: coffeeSegment.png Graphic file (type bmp)
+<coffeeSegment.png>
+File: balakaSegment.png Graphic file (type bmp)
+<balakaSegment.png>
+File: wulingSegment.png Graphic file (type bmp)
+<wulingSegment.png>
+ [43
+
+]
+File: KOM.png Graphic file (type bmp)
+<KOM.png>
+File: KOM2.png Graphic file (type bmp)
+<KOM2.png>
+File: trophy.png Graphic file (type bmp)
+<trophy.png>
+File: trophy2.png Graphic file (type bmp)
+<trophy2.png>
+File: localLegend.png Graphic file (type bmp)
+<localLegend.png>
+File: localLegend2.png Graphic file (type bmp)
+<localLegend2.png>
+
+Overfull \vbox (1.52486pt too high) detected at line 35
+ []
+
+[44
+
+]
+File: KOMmeme.jpg Graphic file (type bmp)
+<KOMmeme.jpg>
+ [45
+
+]
+File: rank.png Graphic file (type bmp)
+<rank.png>
+File: rank2.png Graphic file (type bmp)
+<rank2.png>
+
+Overfull \vbox (7.20543pt too high) detected at line 57
+ []
+
+[46
+
+]
+File: wulingMap.png Graphic file (type bmp)
+<wulingMap.png>
+File: maokong3pMap.png Graphic file (type bmp)
+<maokong3pMap.png>
+
+Overfull \vbox (7.40538pt too high) detected at line 83
+ []
+
+[47
+
+]
+File: wulingMap.png Graphic file (type bmp)
+<wulingMap.png>
+File: maokong3pMap.png Graphic file (type bmp)
+<maokong3pMap.png>
+
+Overfull \vbox (7.40538pt too high) detected at line 83
+ []
+
+[48
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb) [49
+
+] (./main.vrb) [50
+
+] [51
+
+] [52
+
+]
+File: flag0.png Graphic file (type bmp)
+<flag0.png>
+
+Overfull \vbox (44.77846pt too high) detected at line 152
+ []
+
+[53
+
+]
+File: flag1.png Graphic file (type bmp)
+<flag1.png>
+File: flag2.png Graphic file (type bmp)
+<flag2.png>
+File: flag3.png Graphic file (type bmp)
+<flag3.png>
+
+Overfull \vbox (0.30873pt too high) detected at line 152
+ []
+
+[54
+
+]
+File: flag5.png Graphic file (type bmp)
+<flag5.png>
+File: flag4.png Graphic file (type bmp)
+<flag4.png>
+
+Overfull \vbox (15.16458pt too high) detected at line 160
+ []
+
+[55
 
 ])
 \tf@nav=\write6
@@ -1310,17 +1609,17 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A18B7886676232F64CCEE7FB4BB0F88F;75.
+(rerunfilecheck)             Checksum: EFAB440C502D96CFFC934C3E8F32973A;268.
  ) )
 (\end occurred when \ifx on line 56 was incomplete)
 (\end occurred when \ifnum on line 56 was incomplete) 
 Here is how much of TeX's memory you used:
- 27508 strings out of 474878
- 594566 string characters out of 5762516
- 1933627 words of memory out of 5000000
- 48994 multiletter control sequences out of 15000+600000
- 563893 words of font info for 77 fonts, out of 8000000 for 9000
+ 28291 strings out of 474878
+ 613296 string characters out of 5762516
+ 1945627 words of memory out of 5000000
+ 49682 multiletter control sequences out of 15000+600000
+ 564594 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,15n,123p,417b,684s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,417b,767s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (14 pages, 167164 bytes).
+Output written on main.xdv (55 pages, 732084 bytes).
