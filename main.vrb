@@ -1,19 +1,10 @@
-\frametitle{如何避免計時失敗}
+\frametitle{合併活動（網頁版）}
+\begin{multicols}{2}
 \begin{itemize}
-\item 計時失敗： Strava 上的路段時間明顯跟騎的時間不一樣
-\item 下列哪些情況容易造成計時失敗？
-\begin{enumerate}[A]
-\item \yes{在起點休息了一會之後直接上山（例如在萊爾富三芝天涯店休息，休完之後直接計時巴拉卡）}
-\item \yes{計時完直接停在終點等待其他隊友（例如爬完助航站直接停在旁邊拍大屯山風景）}
-\item \yes{計時到一半折返找隊友}
-\item 計時途中停在路邊休息
-\item \yes{計時途中岔出去其他地方再回來（例如騎冷水坑途中跑去平菁街看櫻花）}
-\item \yes{騎不同條路（例如要計時貓空指南線但騎草湳那條路）}
-\item \href{https://www.instagram.com/reel/C5tCGSeyQNI/?utm_source=ig_web_button_share_sheet}{邊計時邊跳舞}
-\item \maybe{闖紅燈}
-\item \yes{過山洞}
-\item \maybe{計時中遇到狗}
-\item 計時中搭車
-\item \yes{計時中按到暫停}
-\end{enumerate}
+\item 點三個點$\to$Export GPX/Export Original\\
+\includegraphics[height=5cm]{cropSplit.png}
+\item .fit：使用\href{https://www.fitfiletools.com/#/top}{這個網站}
+\item .gpx, .tcx, .csv：使用\href{https://gotoes.org/strava/}{這個網站}
+\item 常見問題：功率/心率資料遺失（未知原因）
 \end{itemize}
+\end{multicols}

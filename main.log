@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  20 MAR 2025 02:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  20 MAR 2025 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2081,6 +2081,45 @@ Overfull \vbox (1.37735pt too high) detected at line 53
 
 ] [106
 
+]
+File: cropSplit.png Graphic file (type bmp)
+<cropSplit.png>
+ [107
+
+]
+File: crop.png Graphic file (type bmp)
+<crop.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 32--32
+[][]  
+ []
+
+File: split.png Graphic file (type bmp)
+<split.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 32--32
+[][]  
+ []
+
+[108
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb
+File: cropSplit.png Graphic file (type bmp)
+<cropSplit.png>
+) [109
+
+]
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: gpx2.png Graphic file (type bmp)
+<gpx2.png>
+ [110
+
+] [111
+
 ])
 \tf@nav=\write6
 \openout6 = `main.nav'.
@@ -2102,12 +2141,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (\end occurred when \ifx on line 56 was incomplete)
 (\end occurred when \ifnum on line 56 was incomplete) 
 Here is how much of TeX's memory you used:
- 28594 strings out of 474878
- 620483 string characters out of 5762516
+ 28643 strings out of 474878
+ 621161 string characters out of 5762516
  1945627 words of memory out of 5000000
- 49949 multiletter control sequences out of 15000+600000
+ 49993 multiletter control sequences out of 15000+600000
  564594 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,15n,123p,417b,767s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (106 pages, 1505352 bytes).
+Output written on main.xdv (111 pages, 1566256 bytes).
