@@ -2,9 +2,9 @@
 \begin{multicols}{2}
 \begin{itemize}
 \item 點三個點$\to$Export GPX/Export Original\\
-\includegraphics[height=5cm]{cropSplit.png}
-\item .fit：使用\href{https://www.fitfiletools.com/#/top}{這個網站}
-\item .gpx, .tcx, .csv：使用\href{https://gotoes.org/strava/}{這個網站}
+\includegraphics[height=5cm]{cropSplit.png}\pause
+\item .fit：使用\href{https://www.fitfiletools.com/#/top}{這個網站}\pause
+\item .gpx, .tcx, .csv：使用\href{https://gotoes.org/strava/}{這個網站}\pause
 \item 常見問題：功率/心率資料遺失（未知原因）
 \end{itemize}
 \end{multicols}

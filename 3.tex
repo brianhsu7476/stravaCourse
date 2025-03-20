@@ -8,9 +8,9 @@
 
 \begin{frame}{路段 (Segment)}
 \begin{itemize}
-\item 一條大家常常騎的路
-\item 通常是爬坡、比賽路線
-\item 可以比較大家的成績
+\item 一條大家常常騎的路\pause
+\item 通常是爬坡、比賽路線\pause
+\item 可以比較大家的成績\pause
 \item 常見路段：\href{https://brianhsu7476.github.io/segmentsExplorer/}{Segments Explorer}
 \item \includegraphics[height=5cm]{maokongSegment.png}
 \includegraphics[height=5cm]{coffeeSegment.png}
@@ -60,23 +60,23 @@
 \begin{frame}{計時原理}
 \begin{multicols}{2}
 \begin{itemize}
-\item 路段時間$=$通過終點的時間$-$通過起點的時間
+\item 路段時間$=$通過終點的時間$-$通過起點的時間\pause
 \item 通過起/終點判定
 \begin{itemize}
 \item 活動：由一堆點（通常一秒一個）組成的一條折線
 \item 通過起/終點：這些點與起/終點距離的 local minimum ，也就是在一個區間之內與起/終點距離最近的點
-\end{itemize}
-\item 計時狀態：通過起點之後，依序抵達路段中的各個點，並且未偏離路段太遠
+\end{itemize}\pause
+\item 計時狀態：通過起點之後，依序抵達路段中的各個點，並且未偏離路段太遠\pause
 \item 計時流程
 \begin{itemize}
 \item 通過起點
-\item 計時狀態
+\item 維持計時狀態
 \item 通過終點
 \end{itemize}
 \newpage
 \pause
 \item 你以為的路段
-\includegraphics[width=5.5cm]{wulingMap.png}
+\includegraphics[width=5.5cm]{wulingMap.png}\pause
 \item 實際上的路段
 \includegraphics[width=5.5cm]{maokong3pMap.png}
 \end{itemize}
@@ -88,7 +88,7 @@
 
 \begin{frame}[fragile]{如何避免計時失敗}
 \begin{itemize}
-\item 計時失敗： Strava 上的路段時間明顯跟騎的時間不一樣
+\item 計時失敗： Strava 上沒有記到路段，或是路段時間明顯跟騎的時間不一樣
 \item 下列哪些情況容易造成計時失敗？
 \begin{enumerate}[A]
 \item \yes{在起點休息了一會之後直接上山（例如在萊爾富三芝天涯店休息，休完之後直接計時巴拉卡）}
@@ -110,17 +110,17 @@
 \begin{frame}{如何避免計時失敗}
 \begin{itemize}
 \item \sout{在起點休息了一會之後直接上山}\\
-出發前先離開起點夠遠的一段距離，再重新進入起點重新開始計時
+出發前先離開起點夠遠的一段距離，再重新進入起點重新開始計時\pause
 \item \sout{計時完直接停在終點等待其他隊友}\\
-抵達終點之後先離開終點夠遠的一段距離，以確保計時結束
+抵達終點之後先離開終點夠遠的一段距離，以確保計時結束\pause
 \item \sout{計時到一半折返找隊友}\\
-折返時停錶，回到折返點再按錶繼續
+折返時停錶，回到折返點再按錶繼續\pause
 \item \sout{計時途中岔出去其他地方再回來}\\
-岔出去時停錶，回到出去的點再按錶繼續
+岔出去時停錶，回到出去的點再按錶繼續\pause
 \item \sout{騎不同條路}\\
-基本上沒救
+基本上沒救\pause
 \item \sout{過山洞}\\
-基本上沒救，所以創路段會盡量避免經過過長的山洞
+基本上沒救，所以創路段會盡量避免經過過長的山洞\pause
 \item \sout{計時中按到暫停}\\
 回到按暫停的點按錶繼續計時
 \end{itemize}
@@ -128,8 +128,8 @@
 
 \begin{frame}{計時失敗補救}
 \begin{itemize}
-\item 編輯/裁切活動，重新上傳
-\item 把起/終點附近多餘的點拿掉，以讓 Strava 不會把停在那裡休息的點也算進去
+\item 編輯/裁切活動，重新上傳\pause
+\item 把起/終點附近多餘的點拿掉，以讓 Strava 不會把停在那裡休息的點也算進去\pause
 \item 把偏離計時路段的點拿掉，以讓 Strava 不會以為你沒在計時
 \end{itemize}
 \end{frame}
@@ -137,16 +137,18 @@
 \begin{frame}{有人作弊怎麼辦}
 \begin{itemize}
 \begin{multicols}{2}
-\only<1>{
-\item 檢舉他！檢舉完之後他就會從排行榜上消失了。
+\only<1-2>{
+\item 檢舉他！檢舉完之後他就會從排行榜上消失了。\pause
 \item 素材：\href{https://www.strava.com/athletes/117279779}{曹翊}
+\newpage
 \item \includegraphics[width=7cm]{flag0.png}
-}\only<2>{
-\item 點選三個點（Actions）然後選擇 Flag ：\\\includegraphics[width=7cm]{flag1.png}
-\item 點選檢舉類型並輸入原因：\\\includegraphics[width=7cm]{flag2.png}
+}\only<3->{
+\pause\pause
+\item 點選三個點（Actions）然後選擇 Flag ：\\\includegraphics[width=7cm]{flag1.png}\pause
+\item 點選檢舉類型並輸入原因：\\\includegraphics[width=7cm]{flag2.png}\pause
 }
 \end{multicols}
-\only<2>{
+\only<3->{
 \item \includegraphics[width=14cm]{flag3.png}
 }
 \end{itemize}

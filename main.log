@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  20 MAR 2025 10:08
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.2.20)  20 MAR 2025 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1198,15 +1198,59 @@ File: smallTaiwan.png Graphic file (type bmp)
  [4
 
 ]
+File: smallTaipei.png Graphic file (type bmp)
+<smallTaipei.png>
+File: wulai4p.png Graphic file (type bmp)
+<wulai4p.png>
+File: hand.png Graphic file (type bmp)
+<hand.png>
+File: smallTaiwan.png Graphic file (type bmp)
+<smallTaiwan.png>
+ [5
+
+]
+File: smallTaipei.png Graphic file (type bmp)
+<smallTaipei.png>
+File: wulai4p.png Graphic file (type bmp)
+<wulai4p.png>
+File: hand.png Graphic file (type bmp)
+<hand.png>
+File: smallTaiwan.png Graphic file (type bmp)
+<smallTaiwan.png>
+ [6
+
+]
+File: smallTaipei.png Graphic file (type bmp)
+<smallTaipei.png>
+File: wulai4p.png Graphic file (type bmp)
+<wulai4p.png>
+File: hand.png Graphic file (type bmp)
+<hand.png>
+File: smallTaiwan.png Graphic file (type bmp)
+<smallTaiwan.png>
+ [7
+
+]
+File: smallTaipei.png Graphic file (type bmp)
+<smallTaipei.png>
+File: wulai4p.png Graphic file (type bmp)
+<wulai4p.png>
+File: hand.png Graphic file (type bmp)
+<hand.png>
+File: smallTaiwan.png Graphic file (type bmp)
+<smallTaiwan.png>
+ [8
+
+]
 File: statistics2024.png Graphic file (type bmp)
 <statistics2024.png>
 File: photoworld.png Graphic file (type bmp)
 <photoworld.png>
 File: balakaRank.png Graphic file (type bmp)
 <balakaRank.png>
- [5
+ [9
 
-] [6
+] [10
 
 ]
 
@@ -1240,7 +1284,7 @@ File: QRcodeStrava.png Graphic file (type bmp)
 <QRcodeStrava.png>
 File: stravaApp.png Graphic file (type bmp)
 <stravaApp.png>
- [7
+ [11
 
 ]
 File: stravaWebsite.png Graphic file (type bmp)
@@ -1251,10 +1295,21 @@ File: QRcodeStrava.png Graphic file (type bmp)
 <QRcodeStrava.png>
 File: stravaApp.png Graphic file (type bmp)
 <stravaApp.png>
- [8
+ [12
 
-]) (./1.tex
-(./main.toc) [9
+]
+File: stravaWebsite.png Graphic file (type bmp)
+<stravaWebsite.png>
+File: rickroll.png Graphic file (type bmp)
+<rickroll.png>
+File: QRcodeStrava.png Graphic file (type bmp)
+<QRcodeStrava.png>
+File: stravaApp.png Graphic file (type bmp)
+<stravaApp.png>
+ [13
+
+])
+(./1.tex (./main.toc) [14
 
 ]
 File: privacy.png Graphic file (type bmp)
@@ -1265,7 +1320,18 @@ File: hideMap.png Graphic file (type bmp)
 Overfull \vbox (5.99037pt too high) detected at line 12
  []
 
-[10
+[15
+
+]
+File: privacy.png Graphic file (type bmp)
+<privacy.png>
+File: hideMap.png Graphic file (type bmp)
+<hideMap.png>
+
+Overfull \vbox (5.99037pt too high) detected at line 12
+ []
+
+[16
 
 ]
 File: friend.png Graphic file (type bmp)
@@ -1276,7 +1342,18 @@ File: search2.png Graphic file (type bmp)
 <search2.png>
 File: search3.png Graphic file (type bmp)
 <search3.png>
- [11
+ [17
+
+]
+File: friend.png Graphic file (type bmp)
+<friend.png>
+File: search1.png Graphic file (type bmp)
+<search1.png>
+File: search2.png Graphic file (type bmp)
+<search2.png>
+File: search3.png Graphic file (type bmp)
+<search3.png>
+ [18
 
 ]
 File: club.png Graphic file (type bmp)
@@ -1286,33 +1363,30 @@ File: message.png Graphic file (type bmp)
 File: message2.png Graphic file (type bmp)
 <message2.png>
 
-Overfull \vbox (5.19354pt too high) detected at line 64
+Overfull \vbox (5.19354pt too high) detected at line 65
  []
 
-[12
+[19
+
+]
+File: club.png Graphic file (type bmp)
+<club.png>
+File: message.png Graphic file (type bmp)
+<message.png>
+File: message2.png Graphic file (type bmp)
+<message2.png>
+
+Overfull \vbox (5.19354pt too high) detected at line 65
+ []
+
+[20
 
 ]
 File: post.png Graphic file (type bmp)
 <post.png>
 File: post2.png Graphic file (type bmp)
 <post2.png>
- [13
-
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-] [20
-
-] [21
+ [21
 
 ] [22
 
@@ -1324,24 +1398,21 @@ File: post2.png Graphic file (type bmp)
 
 ] [26
 
-]
-File: happen.png Graphic file (type bmp)
-<happen.png>
-File: everyEffortCounts.png Graphic file (type bmp)
-<everyEffortCounts.png>
-File: giveBirth.png Graphic file (type bmp)
-<giveBirth.png>
+] [27
 
-[27
+] [28
 
-]
-File: happen.png Graphic file (type bmp)
-<happen.png>
-File: everyEffortCounts.png Graphic file (type bmp)
-<everyEffortCounts.png>
-File: giveBirth.png Graphic file (type bmp)
-<giveBirth.png>
- [28
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+] [33
+
+] [34
 
 ]
 File: happen.png Graphic file (type bmp)
@@ -1350,140 +1421,40 @@ File: everyEffortCounts.png Graphic file (type bmp)
 <everyEffortCounts.png>
 File: giveBirth.png Graphic file (type bmp)
 <giveBirth.png>
- [29
+
+[35
 
 ]
-File: forgetResume.jpeg Graphic file (type bmp)
-<forgetResume.jpeg>
-File: saveWhenCrash.jpg Graphic file (type bmp)
-<saveWhenCrash.jpg>
- [30
-
-]
-File: forgetResume.jpeg Graphic file (type bmp)
-<forgetResume.jpeg>
-File: saveWhenCrash.jpg Graphic file (type bmp)
-<saveWhenCrash.jpg>
- [31
-
-]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
- [32
-
-]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
- [33
-
-]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
- [34
-
-]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
- [35
-
-]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
+File: happen.png Graphic file (type bmp)
+<happen.png>
+File: everyEffortCounts.png Graphic file (type bmp)
+<everyEffortCounts.png>
+File: giveBirth.png Graphic file (type bmp)
+<giveBirth.png>
  [36
 
 ]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
+File: happen.png Graphic file (type bmp)
+<happen.png>
+File: everyEffortCounts.png Graphic file (type bmp)
+<everyEffortCounts.png>
+File: giveBirth.png Graphic file (type bmp)
+<giveBirth.png>
  [37
 
 ]
-File: smallTaiwan.jpg Graphic file (type bmp)
-<smallTaiwan.jpg>
-File: china.jpg Graphic file (type bmp)
-<china.jpg>
-File: paw.jpg Graphic file (type bmp)
-<paw.jpg>
-File: woman.png Graphic file (type bmp)
-<woman.png>
-File: 118.png Graphic file (type bmp)
-<118.png>
-File: batman.png Graphic file (type bmp)
-<batman.png>
-File: cyclist.png Graphic file (type bmp)
-<cyclist.png>
+File: forgetResume.jpeg Graphic file (type bmp)
+<forgetResume.jpeg>
+File: saveWhenCrash.jpg Graphic file (type bmp)
+<saveWhenCrash.jpg>
  [38
+
+]
+File: forgetResume.jpeg Graphic file (type bmp)
+<forgetResume.jpeg>
+File: saveWhenCrash.jpg Graphic file (type bmp)
+<saveWhenCrash.jpg>
+ [39
 
 ]
 File: smallTaiwan.jpg Graphic file (type bmp)
@@ -1500,7 +1471,126 @@ File: batman.png Graphic file (type bmp)
 <batman.png>
 File: cyclist.png Graphic file (type bmp)
 <cyclist.png>
- [39
+ [40
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [41
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [42
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [43
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [44
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [45
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [46
+
+]
+File: smallTaiwan.jpg Graphic file (type bmp)
+<smallTaiwan.jpg>
+File: china.jpg Graphic file (type bmp)
+<china.jpg>
+File: paw.jpg Graphic file (type bmp)
+<paw.jpg>
+File: woman.png Graphic file (type bmp)
+<woman.png>
+File: 118.png Graphic file (type bmp)
+<118.png>
+File: batman.png Graphic file (type bmp)
+<batman.png>
+File: cyclist.png Graphic file (type bmp)
+<cyclist.png>
+ [47
 
 ]
 File: rideTogether.png Graphic file (type bmp)
@@ -1508,10 +1598,32 @@ File: rideTogether.png Graphic file (type bmp)
 File: rideTogether2.png Graphic file (type bmp)
 <rideTogether2.png>
 
-Overfull \vbox (19.61176pt too high) detected at line 113
+Overfull \vbox (19.61176pt too high) detected at line 114
  []
 
-[40
+[48
+
+]
+File: rideTogether.png Graphic file (type bmp)
+<rideTogether.png>
+File: rideTogether2.png Graphic file (type bmp)
+<rideTogether2.png>
+
+Overfull \vbox (19.61176pt too high) detected at line 114
+ []
+
+[49
+
+]
+File: rideTogether.png Graphic file (type bmp)
+<rideTogether.png>
+File: rideTogether2.png Graphic file (type bmp)
+<rideTogether2.png>
+
+Overfull \vbox (19.61176pt too high) detected at line 114
+ []
+
+[50
 
 ]
 File: getActivityByName.png Graphic file (type bmp)
@@ -1519,15 +1631,26 @@ File: getActivityByName.png Graphic file (type bmp)
 File: crawl.png Graphic file (type bmp)
 <crawl.png>
 
-Overfull \vbox (6.19354pt too high) detected at line 137
+Overfull \vbox (6.19354pt too high) detected at line 138
  []
 
-[41
+[51
+
+]
+File: getActivityByName.png Graphic file (type bmp)
+<getActivityByName.png>
+File: crawl.png Graphic file (type bmp)
+<crawl.png>
+
+Overfull \vbox (6.19354pt too high) detected at line 138
+ []
+
+[52
 
 ]
 File: getActivityByTime.png Graphic file (type bmp)
 <getActivityByTime.png>
- [42
+ [53
 
 ]
 File: playActivity.png Graphic file (type bmp)
@@ -1538,57 +1661,90 @@ File: playActivityTaitung.png Graphic file (type bmp)
 <playActivityTaitung.png>
 File: playActivityTataka.png Graphic file (type bmp)
 <playActivityTataka.png>
- [43
+ [54
 
-]) (./2.tex (./main.toc) [44
+]
+File: playActivity.png Graphic file (type bmp)
+<playActivity.png>
+File: playActivityWuling.png Graphic file (type bmp)
+<playActivityWuling.png>
+File: playActivityTaitung.png Graphic file (type bmp)
+<playActivityTaitung.png>
+File: playActivityTataka.png Graphic file (type bmp)
+<playActivityTataka.png>
+ [55
+
+]
+File: playActivity.png Graphic file (type bmp)
+<playActivity.png>
+File: playActivityWuling.png Graphic file (type bmp)
+<playActivityWuling.png>
+File: playActivityTaitung.png Graphic file (type bmp)
+<playActivityTaitung.png>
+File: playActivityTataka.png Graphic file (type bmp)
+<playActivityTataka.png>
+ [56
+
+]
+File: playActivity.png Graphic file (type bmp)
+<playActivity.png>
+File: playActivityWuling.png Graphic file (type bmp)
+<playActivityWuling.png>
+File: playActivityTaitung.png Graphic file (type bmp)
+<playActivityTaitung.png>
+File: playActivityTataka.png Graphic file (type bmp)
+<playActivityTataka.png>
+ [57
+
+]) (./2.tex (./main.toc) [58
 
 ]
 File: worldMap.png Graphic file (type bmp)
 <worldMap.png>
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
- [45
+ [59
 
 ]
 File: worldMap.png Graphic file (type bmp)
 <worldMap.png>
- [46
+ [60
 
 ]
 File: worldMap.png Graphic file (type bmp)
 <worldMap.png>
- [47
-
-]
-File: worldMap.png Graphic file (type bmp)
-<worldMap.png>
- [48
-
-]
-File: worldMap.png Graphic file (type bmp)
-<worldMap.png>
- [49
-
-]
-File: worldMap.png Graphic file (type bmp)
-<worldMap.png>
- [50
+ [61
 
 ]
 File: worldMap.png Graphic file (type bmp)
 <worldMap.png>
 
-[51
+[62
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [63
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [64
+
+]
+File: worldMap.png Graphic file (type bmp)
+<worldMap.png>
+ [65
 
 ]
 File: penguin.jpeg Graphic file (type bmp)
 <penguin.jpeg>
- [52
+ [66
 
 ]
 File: worldMap.png Graphic file (type bmp)
 <worldMap.png>
- [53
+ [67
 
 ]
 File: QRcodeStats.png Graphic file (type bmp)
@@ -1597,12 +1753,21 @@ File: statsTaiwan.png Graphic file (type bmp)
 <statsTaiwan.png>
 File: taiwanHeatmap.png Graphic file (type bmp)
 <taiwanHeatmap.png>
- [54
+ [68
+
+]
+File: QRcodeStats.png Graphic file (type bmp)
+<QRcodeStats.png>
+File: statsTaiwan.png Graphic file (type bmp)
+<statsTaiwan.png>
+File: taiwanHeatmap.png Graphic file (type bmp)
+<taiwanHeatmap.png>
+ [69
 
 ]
 File: statsTaipei.png Graphic file (type bmp)
 <statsTaipei.png>
- [55
+ [70
 
 ]
 File: filterTaiwan.png Graphic file (type bmp)
@@ -1613,14 +1778,54 @@ File: filterTaiwanStats.png Graphic file (type bmp)
 <filterTaiwanStats.png>
 File: filterRoofStats.png Graphic file (type bmp)
 <filterRoofStats.png>
- [56
+ [71
+
+]
+File: filterTaiwan.png Graphic file (type bmp)
+<filterTaiwan.png>
+File: filterRoof.png Graphic file (type bmp)
+<filterRoof.png>
+File: filterTaiwanStats.png Graphic file (type bmp)
+<filterTaiwanStats.png>
+File: filterRoofStats.png Graphic file (type bmp)
+<filterRoofStats.png>
+ [72
+
+]
+File: filterTaiwan.png Graphic file (type bmp)
+<filterTaiwan.png>
+File: filterRoof.png Graphic file (type bmp)
+<filterRoof.png>
+File: filterTaiwanStats.png Graphic file (type bmp)
+<filterTaiwanStats.png>
+File: filterRoofStats.png Graphic file (type bmp)
+<filterRoofStats.png>
+ [73
+
+]
+File: filterTaiwan.png Graphic file (type bmp)
+<filterTaiwan.png>
+File: filterRoof.png Graphic file (type bmp)
+<filterRoof.png>
+File: filterTaiwanStats.png Graphic file (type bmp)
+<filterTaiwanStats.png>
+File: filterRoofStats.png Graphic file (type bmp)
+<filterRoofStats.png>
+ [74
 
 ]
 File: statsDistance.png Graphic file (type bmp)
 <statsDistance.png>
 File: statsElevation.png Graphic file (type bmp)
 <statsElevation.png>
- [57
+ [75
+
+]
+File: statsDistance.png Graphic file (type bmp)
+<statsDistance.png>
+File: statsElevation.png Graphic file (type bmp)
+<statsElevation.png>
+ [76
 
 ]
 File: statsAll.png Graphic file (type bmp)
@@ -1628,17 +1833,28 @@ File: statsAll.png Graphic file (type bmp)
 File: statsWeek.png Graphic file (type bmp)
 <statsWeek.png>
 
-Overfull \vbox (0.77464pt too high) detected at line 88
- []
+[77
 
-[58
+]
+File: statsAll.png Graphic file (type bmp)
+<statsAll.png>
+File: statsWeek.png Graphic file (type bmp)
+<statsWeek.png>
+ [78
 
 ]
 File: statshour.png Graphic file (type bmp)
 <statshour.png>
 File: distanceBreakdown.png Graphic file (type bmp)
 <distanceBreakdown.png>
- [59
+ [79
+
+]
+File: statshour.png Graphic file (type bmp)
+<statshour.png>
+File: distanceBreakdown.png Graphic file (type bmp)
+<distanceBreakdown.png>
+ [80
 
 ]
 File: share1.png Graphic file (type bmp)
@@ -1650,12 +1866,45 @@ File: share3.png Graphic file (type bmp)
 File: share4.png Graphic file (type bmp)
 <share4.png>
 
-Overfull \vbox (25.51082pt too high) detected at line 88
+Overfull \vbox (25.51082pt too high) detected at line 93
  []
 
-[60
+[81
 
 ]
+File: share1.png Graphic file (type bmp)
+<share1.png>
+File: share2.png Graphic file (type bmp)
+<share2.png>
+File: share3.png Graphic file (type bmp)
+<share3.png>
+File: share4.png Graphic file (type bmp)
+<share4.png>
+
+Overfull \vbox (25.51082pt too high) detected at line 93
+ []
+
+[82
+
+]
+File: share1.png Graphic file (type bmp)
+<share1.png>
+File: share2.png Graphic file (type bmp)
+<share2.png>
+File: share3.png Graphic file (type bmp)
+<share3.png>
+File: share4.png Graphic file (type bmp)
+<share4.png>
+
+Overfull \vbox (25.51082pt too high) detected at line 93
+ []
+
+[83
+
+]
+\openout4 = `main.vrb'.
+
+ (./main.vrb
 File: openFlyby1.png Graphic file (type bmp)
 <openFlyby1.png>
 File: openFlyby2.png Graphic file (type bmp)
@@ -1664,40 +1913,40 @@ File: openFlyby3.png Graphic file (type bmp)
 <openFlyby3.png>
 File: openFlyby4.png Graphic file (type bmp)
 <openFlyby4.png>
- [61
+) [84
 
-]
+] (./main.vrb
 File: openFlyby.png Graphic file (type bmp)
 <openFlyby.png>
 File: flybyQRCode.png Graphic file (type bmp)
 <flybyQRCode.png>
- [62
+) [85
 
-]
+] (./main.vrb
 File: flyby.png Graphic file (type bmp)
 <flyby.png>
-
-Overfull \vbox (13.998pt too high) detected at line 111
+)
+Overfull \vbox (13.998pt too high) detected at line 116
  []
 
-[63
+[86
 
 ]
 File: intervalsPower.png Graphic file (type bmp)
 <intervalsPower.png>
- [64
+ [87
 
 ]
 File: intervalsFitness.png Graphic file (type bmp)
 <intervalsFitness.png>
- [65
+ [88
 
-]) (./3.tex (./main.toc) [66
+]) (./3.tex (./main.toc) [89
 
 ]
 File: holdmeme.JPG Graphic file (type bmp)
 <holdmeme.JPG>
- [67
+ [90
 
 ]
 File: maokongSegment.png Graphic file (type bmp)
@@ -1710,7 +1959,46 @@ File: wulingSegment.png Graphic file (type bmp)
 <wulingSegment.png>
 File: segmentsExplorer.png Graphic file (type bmp)
 <segmentsExplorer.png>
- [68
+ [91
+
+]
+File: maokongSegment.png Graphic file (type bmp)
+<maokongSegment.png>
+File: coffeeSegment.png Graphic file (type bmp)
+<coffeeSegment.png>
+File: balakaSegment.png Graphic file (type bmp)
+<balakaSegment.png>
+File: wulingSegment.png Graphic file (type bmp)
+<wulingSegment.png>
+File: segmentsExplorer.png Graphic file (type bmp)
+<segmentsExplorer.png>
+ [92
+
+]
+File: maokongSegment.png Graphic file (type bmp)
+<maokongSegment.png>
+File: coffeeSegment.png Graphic file (type bmp)
+<coffeeSegment.png>
+File: balakaSegment.png Graphic file (type bmp)
+<balakaSegment.png>
+File: wulingSegment.png Graphic file (type bmp)
+<wulingSegment.png>
+File: segmentsExplorer.png Graphic file (type bmp)
+<segmentsExplorer.png>
+ [93
+
+]
+File: maokongSegment.png Graphic file (type bmp)
+<maokongSegment.png>
+File: coffeeSegment.png Graphic file (type bmp)
+<coffeeSegment.png>
+File: balakaSegment.png Graphic file (type bmp)
+<balakaSegment.png>
+File: wulingSegment.png Graphic file (type bmp)
+<wulingSegment.png>
+File: segmentsExplorer.png Graphic file (type bmp)
+<segmentsExplorer.png>
+ [94
 
 ]
 File: KOM.png Graphic file (type bmp)
@@ -1729,12 +2017,12 @@ File: localLegend2.png Graphic file (type bmp)
 Overfull \vbox (1.52486pt too high) detected at line 36
  []
 
-[69
+[95
 
 ]
 File: KOMmeme.jpg Graphic file (type bmp)
 <KOMmeme.jpg>
- [70
+ [96
 
 ]
 File: rank.png Graphic file (type bmp)
@@ -1745,7 +2033,7 @@ File: rank2.png Graphic file (type bmp)
 Overfull \vbox (7.20543pt too high) detected at line 58
  []
 
-[71
+[97
 
 ]
 File: wulingMap.png Graphic file (type bmp)
@@ -1756,7 +2044,7 @@ File: maokong3pMap.png Graphic file (type bmp)
 Overfull \vbox (7.40538pt too high) detected at line 84
  []
 
-[72
+[98
 
 ]
 File: wulingMap.png Graphic file (type bmp)
@@ -1767,27 +2055,97 @@ File: maokong3pMap.png Graphic file (type bmp)
 Overfull \vbox (7.40538pt too high) detected at line 84
  []
 
-[73
+[99
+
+]
+File: wulingMap.png Graphic file (type bmp)
+<wulingMap.png>
+File: maokong3pMap.png Graphic file (type bmp)
+<maokong3pMap.png>
+
+Overfull \vbox (7.40538pt too high) detected at line 84
+ []
+
+[100
+
+]
+File: wulingMap.png Graphic file (type bmp)
+<wulingMap.png>
+File: maokong3pMap.png Graphic file (type bmp)
+<maokong3pMap.png>
+
+Overfull \vbox (7.40538pt too high) detected at line 84
+ []
+
+[101
+
+]
+File: wulingMap.png Graphic file (type bmp)
+<wulingMap.png>
+File: maokong3pMap.png Graphic file (type bmp)
+<maokong3pMap.png>
+
+Overfull \vbox (7.40538pt too high) detected at line 84
+ []
+
+[102
+
+]
+File: wulingMap.png Graphic file (type bmp)
+<wulingMap.png>
+File: maokong3pMap.png Graphic file (type bmp)
+<maokong3pMap.png>
+
+Overfull \vbox (7.40538pt too high) detected at line 84
+ []
+
+[103
 
 ]
 \openout4 = `main.vrb'.
 
- (./main.vrb) [74
+ (./main.vrb) [104
 
-] (./main.vrb) [75
+] (./main.vrb) [105
 
-] [76
+] [106
 
-] [77
+] [107
+
+] [108
+
+] [109
+
+] [110
+
+]
+[111
+
+] [112
+
+] [113
+
+] [114
+
+] [115
 
 ]
 File: flag0.png Graphic file (type bmp)
 <flag0.png>
 
-Overfull \vbox (44.77846pt too high) detected at line 153
+Overfull \vbox (44.80537pt too high) detected at line 155
  []
 
-[78
+[116
+
+]
+File: flag0.png Graphic file (type bmp)
+<flag0.png>
+
+Overfull \vbox (44.80537pt too high) detected at line 155
+ []
+
+[117
 
 ]
 File: flag1.png Graphic file (type bmp)
@@ -1796,11 +2154,25 @@ File: flag2.png Graphic file (type bmp)
 <flag2.png>
 File: flag3.png Graphic file (type bmp)
 <flag3.png>
+ [118
 
-Overfull \vbox (0.30873pt too high) detected at line 153
- []
+]
+File: flag1.png Graphic file (type bmp)
+<flag1.png>
+File: flag2.png Graphic file (type bmp)
+<flag2.png>
+File: flag3.png Graphic file (type bmp)
+<flag3.png>
+ [119
 
-[79
+]
+File: flag1.png Graphic file (type bmp)
+<flag1.png>
+File: flag2.png Graphic file (type bmp)
+<flag2.png>
+File: flag3.png Graphic file (type bmp)
+<flag3.png>
+ [120
 
 ]
 File: flag5.png Graphic file (type bmp)
@@ -1808,27 +2180,12 @@ File: flag5.png Graphic file (type bmp)
 File: flag4.png Graphic file (type bmp)
 <flag4.png>
 
-Overfull \vbox (15.16458pt too high) detected at line 161
+Overfull \vbox (15.16458pt too high) detected at line 163
  []
 
-[80
+[121
 
-]) (./4.tex (./main.toc) [81
-
-]
-File: subscribe1.png Graphic file (type bmp)
-<subscribe1.png>
-File: subscribe2.png Graphic file (type bmp)
-<subscribe2.png>
-File: subscribe3.png Graphic file (type bmp)
-<subscribe3.png>
-File: subscribe4.png Graphic file (type bmp)
-<subscribe4.png>
-File: subscribe5.png Graphic file (type bmp)
-<subscribe5.png>
-File: subscribe6.png Graphic file (type bmp)
-<subscribe6.png>
- [82
+]) (./4.tex (./main.toc) [122
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1843,7 +2200,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [83
+ [123
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1858,7 +2215,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [84
+ [124
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1873,7 +2230,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [85
+ [125
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1888,7 +2245,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [86
+ [126
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1903,7 +2260,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [87
+ [127
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1918,7 +2275,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [88
+ [128
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1933,7 +2290,7 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [89
+ [129
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1949,7 +2306,7 @@ File: subscribe5.png Graphic file (type bmp)
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
 
-[90
+[130
 
 ]
 File: subscribe1.png Graphic file (type bmp)
@@ -1964,14 +2321,29 @@ File: subscribe5.png Graphic file (type bmp)
 <subscribe5.png>
 File: subscribe6.png Graphic file (type bmp)
 <subscribe6.png>
- [91
+ [131
+
+]
+File: subscribe1.png Graphic file (type bmp)
+<subscribe1.png>
+File: subscribe2.png Graphic file (type bmp)
+<subscribe2.png>
+File: subscribe3.png Graphic file (type bmp)
+<subscribe3.png>
+File: subscribe4.png Graphic file (type bmp)
+<subscribe4.png>
+File: subscribe5.png Graphic file (type bmp)
+<subscribe5.png>
+File: subscribe6.png Graphic file (type bmp)
+<subscribe6.png>
+ [132
 
 ]
 File: colorMap.png Graphic file (type bmp)
 <colorMap.png>
 File: subscribeStats.png Graphic file (type bmp)
 <subscribeStats.png>
- [92
+ [133
 
 ]
 File: 80KingQRCode.png Graphic file (type bmp)
@@ -1982,7 +2354,7 @@ File: 80King.png Graphic file (type bmp)
 Overfull \vbox (15.40541pt too high) detected at line 34
  []
 
-[93
+[134
 
 ]
 File: 80KingQRCode.png Graphic file (type bmp)
@@ -1993,7 +2365,7 @@ File: 80King.png Graphic file (type bmp)
 Overfull \vbox (15.40541pt too high) detected at line 34
  []
 
-[94
+[135
 
 ]
 File: 80KingQRCode.png Graphic file (type bmp)
@@ -2004,42 +2376,42 @@ File: 80King.png Graphic file (type bmp)
 Overfull \vbox (15.40541pt too high) detected at line 34
  []
 
-[95
+[136
 
 ]
 File: segmentCreate1.png Graphic file (type bmp)
 <segmentCreate1.png>
 File: segmentCreate2.png Graphic file (type bmp)
 <segmentCreate2.png>
- [96
+ [137
 
 ]
 File: segmentCreate1.png Graphic file (type bmp)
 <segmentCreate1.png>
 File: segmentCreate2.png Graphic file (type bmp)
 <segmentCreate2.png>
- [97
+ [138
 
 ]
 File: segmentCreate1.png Graphic file (type bmp)
 <segmentCreate1.png>
 File: segmentCreate2.png Graphic file (type bmp)
 <segmentCreate2.png>
- [98
+ [139
 
 ]
 File: segmentCreate1.png Graphic file (type bmp)
 <segmentCreate1.png>
 File: segmentCreate2.png Graphic file (type bmp)
 <segmentCreate2.png>
- [99
+ [140
 
 ]
 File: segmentCreate1.png Graphic file (type bmp)
 <segmentCreate1.png>
 File: segmentCreate2.png Graphic file (type bmp)
 <segmentCreate2.png>
- [100
+ [141
 
 ]
 File: routeCreate.png Graphic file (type bmp)
@@ -2048,7 +2420,7 @@ File: routeCreate.png Graphic file (type bmp)
 Overfull \vbox (1.37735pt too high) detected at line 53
  []
 
-[101
+[142
 
 ]
 File: routeCreate.png Graphic file (type bmp)
@@ -2057,7 +2429,7 @@ File: routeCreate.png Graphic file (type bmp)
 Overfull \vbox (1.37735pt too high) detected at line 53
  []
 
-[102
+[143
 
 ]
 File: routeCreate.png Graphic file (type bmp)
@@ -2066,7 +2438,7 @@ File: routeCreate.png Graphic file (type bmp)
 Overfull \vbox (1.37735pt too high) detected at line 53
  []
 
-[103
+[144
 
 ]
 File: routeCreate.png Graphic file (type bmp)
@@ -2075,33 +2447,60 @@ File: routeCreate.png Graphic file (type bmp)
 Overfull \vbox (1.37735pt too high) detected at line 53
  []
 
-[104
+[145
 
-]) (./5.tex (./main.toc) [105
+]) (./5.tex (./main.toc) [146
 
-] [106
+] [147
+
+] [148
+
+] [149
+
+] [150
+
+] [151
+
+] [152
 
 ]
 File: cropSplit.png Graphic file (type bmp)
 <cropSplit.png>
- [107
+ [153
 
 ]
 File: crop.png Graphic file (type bmp)
 <crop.png>
 
-Overfull \hbox (9.39723pt too wide) in paragraph at lines 32--32
-[][]  
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 33--33
+[][][][][]  
  []
 
 File: split.png Graphic file (type bmp)
 <split.png>
 
-Overfull \hbox (9.39723pt too wide) in paragraph at lines 32--32
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 33--33
 [][]  
  []
 
-[108
+[154
+
+]
+File: crop.png Graphic file (type bmp)
+<crop.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 33--33
+[][][][][][]  
+ []
+
+File: split.png Graphic file (type bmp)
+<split.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 33--33
+[][]  
+ []
+
+[155
 
 ]
 \openout4 = `main.vrb'.
@@ -2109,16 +2508,164 @@ Overfull \hbox (9.39723pt too wide) in paragraph at lines 32--32
  (./main.vrb
 File: cropSplit.png Graphic file (type bmp)
 <cropSplit.png>
-) [109
+) [156
+
+] (./main.vrb
+File: cropSplit.png Graphic file (type bmp)
+<cropSplit.png>
+) [157
+
+] (./main.vrb
+File: cropSplit.png Graphic file (type bmp)
+<cropSplit.png>
+) [158
+
+] (./main.vrb
+File: cropSplit.png Graphic file (type bmp)
+<cropSplit.png>
+)
+[159
 
 ]
 File: gpx1.png Graphic file (type bmp)
 <gpx1.png>
 File: gpx2.png Graphic file (type bmp)
 <gpx2.png>
- [110
+ [160
 
-] [111
+]
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: gpx2.png Graphic file (type bmp)
+<gpx2.png>
+ [161
+
+]
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: gpx2.png Graphic file (type bmp)
+<gpx2.png>
+ [162
+
+]
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: gpx2.png Graphic file (type bmp)
+<gpx2.png>
+ [163
+
+]
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: gpx2.png Graphic file (type bmp)
+<gpx2.png>
+ [164
+
+]
+File: gpxFitCompare.png Graphic file (type bmp)
+<gpxFitCompare.png>
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: fit.png Graphic file (type bmp)
+<fit.png>
+ [165
+
+]
+File: gpxFitCompare.png Graphic file (type bmp)
+<gpxFitCompare.png>
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: fit.png Graphic file (type bmp)
+<fit.png>
+ [166
+
+]
+File: gpxFitCompare.png Graphic file (type bmp)
+<gpxFitCompare.png>
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: fit.png Graphic file (type bmp)
+<fit.png>
+ [167
+
+]
+File: gpxFitCompare.png Graphic file (type bmp)
+<gpxFitCompare.png>
+File: gpx1.png Graphic file (type bmp)
+<gpx1.png>
+File: fit.png Graphic file (type bmp)
+<fit.png>
+ [168
+
+]
+File: edit0.png Graphic file (type bmp)
+<edit0.png>
+File: edit1.png Graphic file (type bmp)
+<edit1.png>
+ [169
+
+]
+File: edit0.png Graphic file (type bmp)
+<edit0.png>
+File: edit1.png Graphic file (type bmp)
+<edit1.png>
+ [170
+
+]
+File: edit0.png Graphic file (type bmp)
+<edit0.png>
+File: edit1.png Graphic file (type bmp)
+<edit1.png>
+
+[171
+
+]
+File: edit2.png Graphic file (type bmp)
+<edit2.png>
+File: edit3.png Graphic file (type bmp)
+<edit3.png>
+ [172
+
+]
+File: edit2.png Graphic file (type bmp)
+<edit2.png>
+File: edit3.png Graphic file (type bmp)
+<edit3.png>
+ [173
+
+]
+File: edit0.png Graphic file (type bmp)
+<edit0.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 95--95
+[][][][][]  
+ []
+
+File: edit4.png Graphic file (type bmp)
+<edit4.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 95--95
+[][]  
+ []
+
+[174
+
+]
+File: edit0.png Graphic file (type bmp)
+<edit0.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 95--95
+[][][][][][]  
+ []
+
+File: edit4.png Graphic file (type bmp)
+<edit4.png>
+
+Overfull \hbox (9.39723pt too wide) in paragraph at lines 95--95
+[][]  
+ []
+
+[175
 
 ])
 \tf@nav=\write6
@@ -2141,12 +2688,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (\end occurred when \ifx on line 56 was incomplete)
 (\end occurred when \ifnum on line 56 was incomplete) 
 Here is how much of TeX's memory you used:
- 28643 strings out of 474878
- 621161 string characters out of 5762516
- 1945627 words of memory out of 5000000
- 49993 multiletter control sequences out of 15000+600000
+ 28718 strings out of 474878
+ 622226 string characters out of 5762516
+ 1946627 words of memory out of 5000000
+ 50049 multiletter control sequences out of 15000+600000
  564594 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,15n,123p,417b,767s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (111 pages, 1566256 bytes).
+Output written on main.xdv (175 pages, 2481144 bytes).

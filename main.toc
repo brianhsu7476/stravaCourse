@@ -1,6 +1,6 @@
 \beamer@sectionintoc {1}{簡介}{3}{0}{1}
-\beamer@sectionintoc {2}{基礎功能}{9}{0}{2}
-\beamer@sectionintoc {3}{外掛程式}{44}{0}{3}
-\beamer@sectionintoc {4}{路段}{66}{0}{4}
-\beamer@sectionintoc {5}{訂閱功能}{81}{0}{5}
-\beamer@sectionintoc {6}{活動編輯}{105}{0}{6}
+\beamer@sectionintoc {2}{基礎功能}{14}{0}{2}
+\beamer@sectionintoc {3}{外掛程式}{58}{0}{3}
+\beamer@sectionintoc {4}{路段}{89}{0}{4}
+\beamer@sectionintoc {5}{訂閱功能}{122}{0}{5}
+\beamer@sectionintoc {6}{活動編輯}{146}{0}{6}
