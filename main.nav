@@ -98,8 +98,10 @@
 \headcommand {\beamer@framepages {160}{168}}
 \headcommand {\slideentry {6}{0}{6}{169/175}{}{0}}
 \headcommand {\beamer@framepages {169}{175}}
-\headcommand {\beamer@partpages {1}{175}}
-\headcommand {\beamer@subsectionpages {146}{175}}
-\headcommand {\beamer@sectionpages {146}{175}}
-\headcommand {\beamer@documentpages {175}}
-\headcommand {\gdef \inserttotalframenumber {41}}
+\headcommand {\slideentry {6}{0}{7}{176/180}{}{0}}
+\headcommand {\beamer@framepages {176}{180}}
+\headcommand {\beamer@partpages {1}{180}}
+\headcommand {\beamer@subsectionpages {146}{180}}
+\headcommand {\beamer@sectionpages {146}{180}}
+\headcommand {\beamer@documentpages {180}}
+\headcommand {\gdef \inserttotalframenumber {42}}
