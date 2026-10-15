@@ -1,0 +1,19 @@
+<section id="access" style="background:#FAF8F5;color:#2B303B;font-family:'Noto Sans TC', Arial, sans-serif;padding:80px 112px;display:flex;flex-direction:column;gap:28px">
+<div style="display:flex;flex-direction:column;gap:8px">
+<p style="font-size:24px;font-weight:700;letter-spacing:3px;color:#C2410C">07 · Strava API</p>
+<h2 style="font-family:'LXGW WenKai TC', Georgia, serif;font-size:64px;font-weight:700;color:#1F2430;line-height:1.1">Get Access Permission</h2>
+</div>
+<p style="font-size:30px;line-height:1.5;color:#3A4150">你 (A) 想取用某個人 (B) 的資料，Strava 要判斷：</p>
+<div style="display:flex;gap:32px">
+<div style="flex:1;background:#FFFFFF;border:2px solid #E4DED6;border-radius:16px;padding:28px 32px;display:flex;flex-direction:column;gap:8px">
+<h3 style="font-size:30px;font-weight:700;color:#C2410C">你真的是 A</h3>
+<p style="font-size:28px;line-height:1.5;color:#3A4150">Strava 要看你的 client_id 與 client_secret 是否吻合</p>
+</div>
+<div style="flex:1;background:#FFFFFF;border:2px solid #E4DED6;border-radius:16px;padding:28px 32px;display:flex;flex-direction:column;gap:8px">
+<h3 style="font-size:30px;font-weight:700;color:#C2410C">而且 B 同意</h3>
+<p style="font-size:28px;line-height:1.5;color:#3A4150">讓使用者進入同意你的取用的頁面，按下同意後產生的 code 就是使用者同意的證明</p>
+</div>
+</div>
+<p style="font-size:30px;line-height:1.5;color:#3A4150">拿著 client_id、client_secret、code 一起跟 Strava 要權限，Strava 會給你一個暫時證明你有權限的 token</p>
+<img src="/_blob/cb91ff4faefc849df4b03eb45225d0bd" alt="授權流程" style="width:988px;height:300px;object-fit:contain;border-radius:12px;border:1px solid #E4DED6">
+</section>

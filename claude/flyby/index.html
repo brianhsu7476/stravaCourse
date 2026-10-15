@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flyby 比較器</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Flyby 比較器</h1>
+  <p>上傳多個 GPX / FIT / TCX 檔（可為 .gz），在同一張地圖上重播，比較誰快誰慢。檔案只在你的瀏覽器裡處理，不會上傳到伺服器。</p>
+</header>
+
+<div class="layout">
+  <aside>
+    <label id="drop" class="drop">
+      <input id="fileInput" type="file" multiple accept=".gpx,.fit,.tcx,.gz">
+      <strong>選擇或拖曳檔案到這裡</strong>
+      <span>.gpx · .fit · .tcx · .gpx.gz · .fit.gz</span>
+    </label>
+    <pre id="status" class="status"></pre>
+
+    <section class="panel">
+      <h2>自動對齊</h2>
+      <select id="mode">
+        <option value="point">對齊共同起點（同一路線、不同天）</option>
+        <option value="start">同時按下開始（各自的起點）</option>
+        <option value="clock">實際時間（同一場團騎）</option>
+      </select>
+      <label class="row">參考活動
+        <select id="refSelect"></select>
+      </label>
+      <p id="startInfo" class="hint"></p>
+      <button id="resetAll" class="small">全部手動平移歸零</button>
+    </section>
+
+    <section class="panel">
+      <h2>活動</h2>
+      <p id="empty" class="hint">還沒有活動。上傳兩個以上的檔案開始比較。</p>
+      <ul id="acts"></ul>
+    </section>
+  </aside>
+
+  <main>
+    <div class="map-wrap">
+      <div id="map"></div>
+      <div id="board" class="board"></div>
+    </div>
+    <div class="controls">
+      <button id="play" class="primary">▶ 播放</button>
+      <input id="time" type="range" min="0" max="0" step="1" value="0">
+      <span id="timeLabel" class="time-label">0:00</span>
+      <select id="speed" title="播放速度"></select>
+      <label class="check"><input id="follow" type="checkbox"> 跟隨領先者</label>
+      <button id="fit" class="small">縮放到全部路線</button>
+    </div>
+    <div class="charts">
+      <canvas id="gapChart"></canvas>
+      <canvas id="eleChart"></canvas>
+    </div>
+    <p class="hint">點圖表可跳到參考活動到達該距離的時間。空白鍵播放／暫停。</p>
+  </main>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="parsers.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
